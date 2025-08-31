@@ -1,0 +1,7 @@
+faiss-cpu
+transformers
+accelerate
+sentence-transformers
+pandas
+torch
+gradio
